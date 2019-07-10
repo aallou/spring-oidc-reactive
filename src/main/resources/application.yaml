@@ -1,0 +1,8 @@
+# issuer_url : example: http://localhost:8080/auth/realms/demo-realm
+# Spring get this url and concatenate with /.well_known/openid-configuration to initialize the configuration of the Resource Server.
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://dev-902988.okta.com/oauth2/ausvjz0316iq1H7rd356
