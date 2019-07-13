@@ -1,0 +1,1 @@
+Inspired from [Github spring security](https://github.com/spring-projects/spring-security/tree/5.0.0.RELEASE/samples/boot/oauth2login)
